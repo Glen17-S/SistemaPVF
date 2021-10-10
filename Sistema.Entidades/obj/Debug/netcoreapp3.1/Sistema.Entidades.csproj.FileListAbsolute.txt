@@ -1,0 +1,9 @@
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\bin\Debug\netcoreapp3.1\Sistema.Entidades.deps.json
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\bin\Debug\netcoreapp3.1\Sistema.Entidades.dll
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\bin\Debug\netcoreapp3.1\Sistema.Entidades.pdb
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.dll
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.pdb
+C:\Users\Glendy\source\repos\Sistema\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.csproj.AssemblyReference.cache
